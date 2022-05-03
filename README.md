@@ -1,9 +1,4 @@
-Currently on my coding journey I am pursuing a CS degree and looking to build my portfolio over the coming months. [Update by 06.2022]
-
-Project 1 is my Go-Lang basic projects, capstone will be a Wordle clone.
-
-
-<h1>Hi, I'm Ben! <br/><a href="https://github.com/nuiben">Programmer</a>, <a href="https://www.linkedin.com/in/benjamingp/"></a>,</h1>
+<h1>Hi, I'm Ben! <br/><a href="https://github.com/nuiben">Programmer</a> <a href="https://www.linkedin.com/in/benjamingp/"></a>,</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
