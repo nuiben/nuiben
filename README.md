@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! <br/><a href="https://github.com/nuiben">Programmer</a> <a href="https://www.linkedin.com/in/benjamingp/"></a></h1>
+<h1>Hello, my name is Ben<br/><a href="https://github.com/nuiben">Software Developer</a> <a href="https://www.linkedin.com/in/benjamingp/"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
