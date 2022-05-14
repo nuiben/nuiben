@@ -1,4 +1,4 @@
-![alt tag](https://user-images.githubusercontent.com/102399623/167746099-4a6982b2-1056-46b7-828e-cd33d80e4ee6.png)
+![alt tag](https://user-images.githubusercontent.com/102399623/168411110-9e4a6808-d1af-45f7-bbee-8b83259b3894.png)
 
 <h1>Hi! Looking for your next<br/><a href="https://github.com/nuiben">Software Engineer?</a> <a href="https://www.linkedin.com/in/benjamingp/"></a></h1>
 
