@@ -9,10 +9,13 @@
 - <b>Golang Tutorials</b>
   - [Building out Projects in Go!] (https://github.com/nuiben/learn-go)
 
+- <b>Python Projects</b>
+  - [Teaching Python for Finance] (https://github.com/nuiben/pyfin)
+
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BenPorter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="BenPorter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/benp0rter
 [linkedin]: https://linkedin.com/in/benjamingp
