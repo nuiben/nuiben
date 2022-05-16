@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Golang Tutorials</b>
+- <b>Golang</b>
   - [Building out Projects in Go!] (https://github.com/nuiben/learn-go)
 
 - <b>Python Projects</b>
