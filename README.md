@@ -13,7 +13,7 @@
   - [Teaching Python for Finance] (https://github.com/nuiben/pyfin)
 
 - <b>Codewars</b>
--   - [Daily Solutions] (https://github.com/nuiben/codewars)
+   - [Daily Solutions] (https://github.com/nuiben/codewars)
 
 <h2>Connect with me:</h2>
 
