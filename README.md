@@ -9,7 +9,7 @@
 - <b>Golang</b>
   - [Building out Projects in Go!] (https://github.com/nuiben/learn-go)
 
-- <b>Python Projects</b>
+- <b>Python</b>
   - [Teaching Python for Finance] (https://github.com/nuiben/pyfin)
 
 <h2>Connect with me:</h2>
