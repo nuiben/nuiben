@@ -12,6 +12,9 @@
 - <b>Python</b>
   - [Teaching Python for Finance] (https://github.com/nuiben/pyfin)
 
+- <b>Codewars</b>
+-   - [Daily Solutions] (https://github.com/nuiben/codewars)
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="BenPorter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
