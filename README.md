@@ -7,13 +7,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Golang</b>
-  - [Building out Projects in Go!] (https://github.com/nuiben/learn-go)
+  - Building out Projects in Go! (https://github.com/nuiben/learn-go)
 
 - <b>Python</b>
-  - [Teaching Python for Finance] (https://github.com/nuiben/pyfin)
+  - Teaching Python for Finance (https://github.com/nuiben/pyfin)
 
 - <b>Codewars</b>
-   - [Daily Solutions] (https://github.com/nuiben/codewars)
+   - Daily Solutions (https://github.com/nuiben/codewars)
 
 <h2>Connect with me:</h2>
 
