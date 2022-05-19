@@ -7,7 +7,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Golang</b>
-  - Building out Projects in Go! (https://github.com/nuiben/learn-go)
+  - Offical Go Tutorials (https://github.com/nuiben/learn-go)
+  - Personal Projects (https://github.com/nuiben/go)
 
 - <b>Python</b>
   - Teaching Python for Finance (https://github.com/nuiben/pyfin)
