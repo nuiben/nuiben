@@ -12,6 +12,7 @@
 
 - <b>Python</b>
   - [Teaching Python for Finance](https://github.com/nuiben/pyfin)
+  - [Python Projects](https://github.com/nuiben/pyproj)
 
 - <b>Java</b>
    - [Java Work](https://github.com/nuiben/java_work)
