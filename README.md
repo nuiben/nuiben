@@ -7,7 +7,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Golang</b>
-  - [Offical Go Tutorials](https://github.com/nuiben/learn-go)
+  - [Official Go Tutorials](https://github.com/nuiben/learn-go)
   - [Personal Projects](https://github.com/nuiben/go)
 
 - <b>Python</b>
