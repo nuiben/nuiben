@@ -13,6 +13,9 @@
 - <b>Python</b>
   - [Teaching Python for Finance](https://github.com/nuiben/pyfin)
 
+- <b>Java</b>
+   - [Java Work](https://github.com/nuiben/java_work)
+
 - <b>Codewars</b>
    - [Daily Solutions](https://github.com/nuiben/codewars)
 
