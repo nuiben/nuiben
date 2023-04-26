@@ -7,7 +7,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b>Rust</b>
-  - [Rust for Backend Development]()
+  - [Rust for Backend Development](https://github.com/nuiben/rust)
  
 <b>Golang</b>
   - [Official Go Tutorials](https://github.com/nuiben/learn-go)
