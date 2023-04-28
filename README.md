@@ -1,10 +1,6 @@
 ![alt tag](https://user-images.githubusercontent.com/102399623/168411123-ba704f77-ab4d-489a-ba0e-b0e0f48c122f.png)
 
-
-<h1>Hi! Looking for your next<br/><a href="https://www.linkedin.com/in/benjamingp">Software Engineer?</a> <a href="https://www.linkedin.com/in/benjamingp/"></a></h1>
-
-
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1>👨‍💻 Software Development Projects:</h1>
 
 <b>Rust</b>
   - [Rust for Backend Development](https://github.com/nuiben/rust)
