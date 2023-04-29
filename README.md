@@ -1,5 +1,3 @@
-![alt tag](https://user-images.githubusercontent.com/102399623/168411123-ba704f77-ab4d-489a-ba0e-b0e0f48c122f.png)
-
 <h1>👨‍💻 Software Development Projects:</h1>
 
 <b>Rust</b>
