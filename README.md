@@ -3,7 +3,8 @@
 <h1>👨‍💻 Software Development Projects:</h1>
 
 <b>Rust</b>
-  - [Rust for Backend Development](https://github.com/nuiben/rust)
+  - [Rust for Back-End](https://github.com/nuiben/rust)
+  - [Front-End + Rust](https://github.com/nuiben/rust_web)
  
 <b>Golang</b>
   - [Official Go Tutorials](https://github.com/nuiben/learn-go)
