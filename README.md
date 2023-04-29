@@ -19,7 +19,6 @@
    - [Daily Solutions](https://github.com/nuiben/codewars)
 
 
-[<img align="left" alt="BenPorter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+<h2></h2>
 [<img align="left" alt="BenPorter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://linkedin.com/in/benjamingp
