@@ -17,7 +17,7 @@
 > <b>Java</b>
 >    - [Java Work](https://github.com/nuiben/java_work)
 
-> <b>Codewars</b>
+> <b>Coding Challenges</b>
 >    - [Daily Solutions](https://github.com/nuiben/codewars)
 
 
