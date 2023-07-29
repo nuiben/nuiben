@@ -6,15 +6,11 @@
 >   - [Front-End (+ Rust)](https://github.com/nuiben/rust_web)
 >   
 
-> <b>Golang</b>
->   - [Official Go Tutorials](https://github.com/nuiben/learn-go)
->   - [Personal Projects](https://github.com/nuiben/go)
-
 > <b>Python</b>
 >   - [Teaching Python for Finance](https://github.com/nuiben/pyfin)
 >   - [Python Projects](https://github.com/nuiben/pyproj)
 
-> <b>Java</b>
+> <b>Java (Academic)</b>
 >    - [Java Work](https://github.com/nuiben/java_work)
 
 > <b>Coding Challenges</b>
