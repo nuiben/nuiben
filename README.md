@@ -1,15 +1,16 @@
 <h1>👨‍💻 Software Development Projects:</h1>
 
-> <b>Rust</b>
-> 
->   - [Back-End](https://github.com/nuiben/rust)
->   - [Front-End (+ Rust)](https://github.com/nuiben/rust_web)
->   
+Hello, and welcome to my GitHub repository. Take a look at my most recent python projects below.
 
 > <b>Python</b>
 >   - [Teaching Python for Finance](https://github.com/nuiben/pyfin)
 >   - [Python Projects](https://github.com/nuiben/pyproj)
-
+>
+> <b>Rust</b>
+> 
+>   - [Back-End](https://github.com/nuiben/rust)
+>   - [Front-End (+ Rust)](https://github.com/nuiben/rust_web)
+>  
 > <b>Java (Academic)</b>
 >    - [Java Work](https://github.com/nuiben/java_work)
 
