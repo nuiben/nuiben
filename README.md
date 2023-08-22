@@ -12,7 +12,7 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 >   - [Front-End (+ Rust)](https://github.com/nuiben/rust_web)
 >  
 > <b>Java (Academic)</b>
->    - [Java Work](https://github.com/nuiben/java_work)
+>    - [Java](https://github.com/nuiben/java_work)
 
 > <b>Coding Challenges</b>
 >    - [Daily Solutions](https://github.com/nuiben/codewars)
