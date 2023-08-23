@@ -3,6 +3,7 @@
 Hello, and welcome to my GitHub repository. Take a look at my most recent python projects below.
 > <b>Data Engineering</b>
 >   - [Data Delivery](https://github.com/nuiben/DataDelivery)
+> 
 > <b>Python</b>
 >   - [Teaching Python for Finance](https://github.com/nuiben/pyfin)
 >   - [Python Projects](https://github.com/nuiben/pyproj)
