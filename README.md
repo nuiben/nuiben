@@ -13,8 +13,8 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 >   - [Back-End](https://github.com/nuiben/rust)
 >   - [Front-End (+ Rust)](https://github.com/nuiben/rust_web)
 >  
-> <b>Java (Academic)</b>
->    - [Java](https://github.com/nuiben/java_work)
+> <b>Java </b>
+>    - [Java Works](https://github.com/nuiben/java_work)
 
 > <b>Coding Challenges</b>
 >    - [Daily Solutions](https://github.com/nuiben/codewars)
