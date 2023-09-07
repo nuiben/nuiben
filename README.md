@@ -13,6 +13,8 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 >  
 > <b>Java </b>
 >    - [Java Works](https://github.com/nuiben/java_work)
+>    - [Java UI](https://github.com/nuiben/PartParty)
+>    - [Java API](https://github.com/nuiben/ScheDual)
 
 > <b>Coding Challenges</b>
 >    - [Daily Solutions](https://github.com/nuiben/codewars)
