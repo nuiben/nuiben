@@ -9,7 +9,7 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 > 
 > <b>Python</b>
 >   - [Teaching Python for Finance](https://github.com/nuiben/pyfin)
->   - [Promodoro Time - UI](https://github.com/nuiben/promodoro)
+>   - [Promodoro Timer - GUI](https://github.com/nuiben/promodoro)
 >   - [Misc](https://github.com/nuiben/pyproj)
 >
 > <b>Rust</b>
