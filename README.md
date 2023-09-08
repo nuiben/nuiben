@@ -10,6 +10,7 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 > <b>Python</b>
 >   - [Teaching Python for Finance](https://github.com/nuiben/pyfin)
 >   - [Promodoro Timer - GUI](https://github.com/nuiben/promodoro)
+>   - [MarketMean - ML Price Estimator](https://github.com/nuiben/marketmean)
 >   - [Misc](https://github.com/nuiben/pyproj)
 >
 > <b>Rust</b>
