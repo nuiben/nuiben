@@ -3,8 +3,8 @@
 Hello, and welcome to my GitHub repository. Take a look at my most recent python projects below.
 >
 > <b>Java </b>
->   - [Java UI](https://github.com/nuiben/PartParty)
->   - [Java API](https://github.com/nuiben/ScheDual)
+>   - [PartParty - Java UI](https://github.com/nuiben/PartParty)
+>   - [ScheDual - Java API](https://github.com/nuiben/ScheDual)
 >   - [Misc](https://github.com/nuiben/java_work)
 > 
 > <b>Python</b>
