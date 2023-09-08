@@ -11,6 +11,7 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 >   - [Teaching Python for Finance](https://github.com/nuiben/pyfin)
 >   - [Promodoro Timer - GUI](https://github.com/nuiben/promodoro)
 >   - [MarketMean - ML Price Estimator](https://github.com/nuiben/marketmean)
+>   - [Pathfinder - Logistics Simulation](https://github.com/nuiben/pathfinder)
 >   - [Misc](https://github.com/nuiben/pyproj)
 >
 > <b>Rust</b>
