@@ -3,15 +3,15 @@
 Hello, and welcome to my GitHub repository. Take a look at my most recent python projects below.
 >
 > <b>Java </b>
->   - [PartParty - Java UI](https://github.com/nuiben/PartParty)
->   - [ScheDual - Java API](https://github.com/nuiben/ScheDual)
->   - [Misc](https://github.com/nuiben/java_work)
+>   - [PartParty (GUI)](https://github.com/nuiben/PartParty)
+>   - [ScheDual (API)](https://github.com/nuiben/ScheDual)
+>   - [JavaWorks](https://github.com/nuiben/java_work)
 > 
 > <b>Python</b>
->   - [Promodoro Timer - GUI](https://github.com/nuiben/promodoro)
->   - [MarketMean - ML Price Estimator](https://github.com/nuiben/marketmean)
->   - [Pathfinder - Logistics Simulation](https://github.com/nuiben/pathfinder)
->   - [Misc](https://github.com/nuiben/pyproj)
+>   - [Promodoro Timer (GUI)](https://github.com/nuiben/promodoro)
+>   - [MarketMean (Jupyter ML Model)](https://github.com/nuiben/marketmean)
+>   - [Pathfinder (CLI Logistics Simulation)](https://github.com/nuiben/pathfinder)
+>   - [PyProj](https://github.com/nuiben/pyproj)
 >
 > <b>Rust</b>
 > 
