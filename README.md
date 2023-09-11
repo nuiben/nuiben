@@ -17,6 +17,10 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 > 
 >   - [Back-End](https://github.com/nuiben/rust)
 >   - [Front-End (+ Rust)](https://github.com/nuiben/rust_web)
+>
+> <b>Front-End</b>
+>
+>  - [Vue.js](https://github.com/nuiben/promodoro-vue)
 
 [<img align="left" alt="BenPorter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
