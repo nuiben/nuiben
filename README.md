@@ -15,8 +15,8 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 >
 > <b>Rust</b>
 > 
->   - [Back-End](https://github.com/nuiben/rust)
->   - [Front-End (+ Rust)](https://github.com/nuiben/rust_web)
+>   - [Rust Web](https://github.com/nuiben/rust_web)
+>   - [Rust Projects](https://github.com/nuiben/rust)
 >
 > <b>Front-End</b>
 >
