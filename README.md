@@ -22,6 +22,8 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 >
 >  - [Vue.js](https://github.com/nuiben/promodoro-vue)
 
+---
+
 [<img align="left" alt="BenPorter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/benjamingp
@@ -29,3 +31,7 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 [<img align="left" alt="BenPorter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [twitter]: https://twitter.com/benp0rter
+
+[<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bento.svg" />][bento]
+
+[bento]: https://bento.me/ben-porter
