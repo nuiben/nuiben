@@ -6,9 +6,9 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 >   - [PartParty (GUI)](https://github.com/nuiben/PartParty)
 >   - [ScheDual (API)](https://github.com/nuiben/ScheDual)
 >   - [JavaWorks](https://github.com/nuiben/java_work)
+>   - [Promodoro Timer (GUI)](https://github.com/nuiben/promodoro)
 > 
 > <b>Python</b>
->   - [Promodoro Timer (GUI)](https://github.com/nuiben/promodoro)
 >   - [MarketMean (Jupyter ML Model)](https://github.com/nuiben/marketmean)
 >   - [Pathfinder (CLI Logistics Simulation)](https://github.com/nuiben/pathfinder)
 >   - [PyProj](https://github.com/nuiben/pyproj)
