@@ -6,7 +6,6 @@ Hello, and welcome to my GitHub repository. Take a look at my most recent python
 >   - [PartParty (GUI)](https://github.com/nuiben/PartParty)
 >   - [ScheDual (API)](https://github.com/nuiben/ScheDual)
 >   - [JavaWorks](https://github.com/nuiben/java_work)
->   - [Promodoro Timer (GUI)](https://github.com/nuiben/pomodoro)
 > 
 > <b>Python</b>
 >   - [MarketMean (Jupyter ML Model)](https://github.com/nuiben/marketmean)
