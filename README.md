@@ -21,14 +21,10 @@
 
 ---
 
-[<img align="left" alt="BenPorter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/benjamingp
-
-[<img align="left" alt="BenPorter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[twitter]: https://twitter.com/benp0rter
-
-[<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bento.svg" />][bento]
-
-[bento]: https://bento.me/ben-porter
+<div align="center">
+  <a href="https://www.linkedin.com/in/benjamingp/"><img align="center" alt="BenPorter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://twitter.com/benp0rter"><img align="center" alt="BenPorter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://bento.me/ben-porter"><img align="center" alt="BenPorter | Bento" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bento.svg"></a>
+</div>
