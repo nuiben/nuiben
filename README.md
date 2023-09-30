@@ -1,6 +1,7 @@
-<h1>👨‍💻 Software Development Projects:</h1>
+<h1 align="center">👨‍💻 Software Development Projects</h1>
 
-Hello, and welcome to my GitHub repository. Take a look at my most recent python projects below.
+<p align="center">Hello, and welcome to my GitHub repository. Take a look at my most recent projects below.</p>
+
 >
 > <b>Java </b>
 >   - [PartParty (GUI)](https://github.com/nuiben/PartParty)
