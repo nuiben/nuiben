@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Software Development Projects</h1>
+<h1 align="center">🧑‍💻Projects</h1>
 
 <p align="center">Hello, and welcome to my GitHub repository. Take a look at my most recent projects below.</p>
 
