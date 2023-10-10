@@ -18,10 +18,6 @@
 >   - [Full-Stack Web Projects](https://github.com/nuiben/rust_web)
 >   - [RustBytes](https://github.com/nuiben/rust)
 >
-> <b>JavaScript</b>
->
->   - [Wade](https://github.com/nuiben/wade)
-
 ---
 
 <div align="center">
