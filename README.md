@@ -6,17 +6,14 @@
 > <b>Java </b>
 >   - [PartParty (GUI)](https://github.com/nuiben/PartParty)
 >   - [ScheDual (API)](https://github.com/nuiben/ScheDual)
->   - [JavaWorks](https://github.com/nuiben/java_work)
 > 
 > <b>Python</b>
 >   - [MarketMean (Jupyter ML Model)](https://github.com/nuiben/marketmean)
 >   - [Pathfinder (CLI Logistics Simulation)](https://github.com/nuiben/pathfinder)
->   - [PyProj](https://github.com/nuiben/pyproj)
 >
 > <b>Rust</b>
 > 
 >   - [Full-Stack Web Projects](https://github.com/nuiben/rust_web)
->   - [RustBytes](https://github.com/nuiben/rust)
 >
 ---
 
