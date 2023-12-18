@@ -11,10 +11,6 @@
 >   - [MarketMean (Jupyter ML Model)](https://github.com/nuiben/marketmean)
 >   - [Pathfinder (CLI Logistics Simulation)](https://github.com/nuiben/pathfinder)
 >
-> <b>Rust</b>
-> 
->   - [Full-Stack Web Projects](https://github.com/nuiben/rust_web)
->
 ---
 
 <div align="center">
