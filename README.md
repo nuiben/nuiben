@@ -10,7 +10,9 @@
 > <b>Python</b>
 >   - [MarketMean (Jupyter ML Model)](https://github.com/nuiben/marketmean)
 >   - [Pathfinder (CLI Logistics Simulation)](https://github.com/nuiben/pathfinder)
->
+> 
+> <b>C#</b>
+>   - [TalkyTina (CLI Text-To-Speech)](https://github.com/nuiben/TalkyTina)
 ---
 
 <div align="center">
