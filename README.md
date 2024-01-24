@@ -3,16 +3,16 @@
 <p align="center">Hello, and welcome to my GitHub repository. Take a look at my most recent projects below.</p>
 
 >
-> <b>Java </b>
->   - [PartParty (GUI)](https://github.com/nuiben/PartParty)
->   - [ScheDual (API)](https://github.com/nuiben/ScheDual)
+> <b>Java</b>
+>   - [PartParty - GUI Inventory Management System](https://github.com/nuiben/PartParty)
+>   - [ScheDual - Client Scheduling API](https://github.com/nuiben/ScheDual)
 > 
 > <b>Python</b>
->   - [MarketMean (Jupyter ML Model)](https://github.com/nuiben/marketmean)
->   - [Pathfinder (CLI Logistics Simulation)](https://github.com/nuiben/pathfinder)
+>   - [MarketMean - Jupyter Linear Regression ML Model](https://github.com/nuiben/marketmean)
+>   - [Pathfinder - CLI Logistics Simulation](https://github.com/nuiben/pathfinder)
 > 
 > <b>C#</b>
->   - [TalkyTina (CLI Text-To-Speech)](https://github.com/nuiben/TalkyTina)
+>   - [TalkyTina - CLI Text-To-Speech Synthesizer](https://github.com/nuiben/TalkyTina)
 ---
 
 <div align="center">
