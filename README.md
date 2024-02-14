@@ -11,8 +11,9 @@
 >   - [MarketMean - Jupyter Linear Regression ML Model](https://github.com/nuiben/marketmean)
 >   - [Pathfinder - CLI Logistics Simulation](https://github.com/nuiben/pathfinder)
 > 
-> <b>C#</b>
->   - [TalkyTina - CLI Text-To-Speech Synthesizer](https://github.com/nuiben/TalkyTina)
+> <b>Rust</b>
+>   - [Rust Projects](https://github.com/nuiben/rust)
+>   - [Web Dev + Rust](https://github.com/nuiben/rust_web)
 ---
 
 <div align="center">
