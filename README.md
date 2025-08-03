@@ -10,7 +10,7 @@
 > <b>Python</b>
 >   - [MarketMean - Jupyter Linear Regression ML Model](https://github.com/nuiben/marketmean)
 >   - [Pathfinder - CLI Logistics Simulation](https://github.com/nuiben/pathfinder)
->   - [Limik](https://github.com/nuiben/TaskRunner)
+>   - [PokeMMO - Pokemon Database](https://github.com/nuiben/pokemmo)
 > 
 > <b>Rust</b>
 >   - [Rust Projects](https://github.com/nuiben/rust)
