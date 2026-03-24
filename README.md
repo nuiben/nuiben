@@ -14,7 +14,9 @@
 > 
 > <b>Rust</b>
 >   - [Rust Projects](https://github.com/nuiben/rust)
->   - [Web Dev + Rust](https://github.com/nuiben/rust_web)
+>
+> <b>Data Engineering</b>
+>   - [Data Lab](https://github.com/nuiben/data_lab)
 ---
 
 <div align="center">
